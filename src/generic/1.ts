@@ -14,4 +14,4 @@ getPromise()
   console.log(data);
 });
 
-export {};
+export { };
